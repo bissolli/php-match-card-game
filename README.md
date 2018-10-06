@@ -10,7 +10,7 @@ To get started, require this composer package:
 composer require bissolli/php-match-card-game
 ```
 
-Or simply clone the project and check the `index.php` file.
+Or simply clone the project, run `composer install` and check the `index.php` file
 
 ## Game rules
 - The deck consists out of 52 cards.
