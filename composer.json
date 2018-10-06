@@ -11,11 +11,10 @@
         }
     ],
     "require": {
-        "php": ">=5.6.0"
+        "php": ">=5.6.4"
     },
     "require-dev": {
-        "mockery/mockery": "~0.9|~1.0",
-        "phpunit/phpunit": "5.5.*|6.0.*|7.0.*"
+        "phpunit/phpunit": "~5.7"
     },
     "autoload": {
         "psr-4": {
@@ -27,5 +26,10 @@
     },
     "autoload-dev": {
         "classmap": ["tests/TestCase.php"]
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
     }
 }
