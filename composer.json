@@ -1,6 +1,6 @@
 {
     "name": "bissolli/php-match-card-game",
-    "description": "Simple match card game built in PHP.",
+    "description": "Simple card game built in PHP that let players have fun playing against each other. Wins who gets its own hand empty first!",
     "keywords": [ "card game", "php" ],
     "type": "library",
     "license": "MIT",
