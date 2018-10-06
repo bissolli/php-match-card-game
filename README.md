@@ -1,7 +1,10 @@
 # PHP Card Game
 Simple card game built in PHP that let players have fun playing against each other. Wins who gets its own hand empty first!
 
-> BADGES
+[![Build Status](https://travis-ci.org/bissolli/php-match-card-game.svg?branch=master)](https://travis-ci.org/bissolli/php-match-card-game)
+[![Latest Stable Version](https://poser.pugx.org/bissolli/php-match-card-game/v/stable)](https://packagist.org/packages/bissolli/php-match-card-game)
+[![Total Downloads](https://poser.pugx.org/bissolli/php-match-card-game/downloads)](https://packagist.org/packages/bissolli/php-match-card-game)
+[![License](https://poser.pugx.org/bissolli/php-match-card-game/license)](https://packagist.org/packages/bissolli/php-match-card-game)
 
 ## Installation
 To get started, require this composer package:
